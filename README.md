@@ -5,9 +5,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
 | หัวข้อ 1 | หัวข้อ 2 | 
 | --------- | --------- | 
 | รายการ 1 | รายการ 2 | 
+
 [canva](https://www.canva.com/design/DAGSPvctDbY/XkoutrRSeBEE02_5aDnp_w/edit?utm_content=DAGSPvctDbY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <!---
 Guy2912/Guy2912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
