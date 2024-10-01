@@ -24,6 +24,10 @@
 >ข้อความอ้างอิง
 
 ~~ขีดฆ่า~~
+
+‘’’def hello_world(): 
+
+          print("Hello, World!")’’’
 [canva](https://www.canva.com/design/DAGSPvctDbY/XkoutrRSeBEE02_5aDnp_w/edit?utm_content=DAGSPvctDbY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <!---
 Guy2912/Guy2912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
