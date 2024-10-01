@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[Google](https://www.google.com)
 
 [canva](https://www.canva.com/design/DAGSPvctDbY/XkoutrRSeBEE02_5aDnp_w/edit?utm_content=DAGSPvctDbY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <!---
